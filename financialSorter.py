@@ -1,7 +1,4 @@
 """
-
-CSE 231 Project 6
-
 Income Data Sorter By State and County
 
     Open_file():
